@@ -5,3 +5,5 @@ vless://VPNCUSTOMIZE@all.vpncustomize.cam:443?mode=multi&security=tls&encryption
 vless://VPNCUSTOMIZE@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech#Join+%40V2rayNGn
 
 vless://VPNCUSTOMIZE@all.vpncustomize.cam:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=High-speedV2ray.VPNCUSTOMIZE.online&type=ws#Join+%40V2rayNGn
+
+vless://VPNCUSTOMIZE@all.vpncustomize.cam:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=‌@VPNCUSTOMIZE&sni=FreeV2rayng.VPNCUSTOMIZE.online#ALL
